@@ -6,4 +6,4 @@ const endpoint = 'https://api.openai.com/v1/';
 const aiToken = 'sk-------------------------------';
 
 /// Email for Gravatar image
-const emailAddress = 'kishang.90@gmail.com';
+const emailAddress = 'test@gmail.com';
